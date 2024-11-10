@@ -2,10 +2,6 @@
 
 Este proyecto desarrolla un modelo de **Machine Learning** para predecir la probabilidad de cancelación de clientes para el operador de telecomunicaciones **Interconnect**. Si el modelo identifica que un cliente podría cancelar el servicio, se le ofrecerán códigos promocionales o planes especiales para mejorar la retención. El objetivo principal es maximizar el puntaje **AUC-ROC**, con la **exactitud** como métrica secundaria.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tPtg8zGK8sgpmuY/giphy.gif" width="250" alt="Interconnect GIF">
-</p>
-
 ---
 
 ## Tecnologías Utilizadas 🛠️

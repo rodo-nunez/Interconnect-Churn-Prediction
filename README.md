@@ -89,3 +89,10 @@ Para ejecutar el proyecto, instala las siguientes dependencias con el comando:
 
 ```bash
 pip install -r requirements.txt
+```
+
+
+<!-- TODO: No comitees tus checkpoints. La idea de Git es poder moverte fluidamente entre tus versiones. Los checkpoints son redundantes. Es más, son malos, porque al comitear un jupyter notebook, podrías estar filtrando información sin darte cuenta. -->
+<!-- TODO: Toma tu ipynb y sepáralo en múltiuples archivos, para modularizar tu código. Usa archivos .py, como expliqué en clases y en estos dos videos: https://www.youtube.com/watch?v=rPEyYGG-w3s - https://www.youtube.com/watch?v=MY4nMmF8gOU -->
+<!-- TODO: No tienes gitignore. Es super importante tener uno. -->
+<!-- TODO: La carpeta .idea tiene información redundante. Ignora las carpetas ocultas (que comienzan con .) a menos que concientemente quieras incluirlas por algún motivo -->
